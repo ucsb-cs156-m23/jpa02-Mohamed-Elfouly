@@ -1,7 +1,7 @@
 # Deploying a Spring Boot application to Heroku via connecting to Github
 
 To deploy this application to Heroku:
-
+mvn compi
 1. Create a Heroku account on the free plan.
 
    You should not need to enter a credit card, but you may need to verify your email.
