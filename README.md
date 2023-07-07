@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-m23/jpa02-Mohamed-Elfouly
 
-Deployed at: https://jpa02-elfouly.onrender.com
+Deployed at: http://jpa02-mohamed-elfouly.dokku-02.cs.ucsb.edu
 
 
 # About this repo
